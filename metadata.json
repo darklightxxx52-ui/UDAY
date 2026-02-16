@@ -1,0 +1,7 @@
+{
+  "name": "LRD ક્વિઝ માસ્ટર",
+  "description": "ગુજરાત પોલીસ (LRD/PSI) ની તૈયારી માટેની શ્રેષ્ઠ ગુજરાતી એપ્લિકેશન.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
